@@ -8,5 +8,12 @@ The python code, menu.py, can be utilized by food trucks as an interactive order
 
 ## Demonstration
 
+### First Menu
+The first menu below prompts the user to select the menu they would like to order from: snacks, meals, drinks, dessert.
 
 ![Alt text](/First_Menu.png?raw=true "First Menu")
+
+### Detailed Menu
+
+
+![Alt text](/SubMenu.png?raw=true "Detailed Menu")
