@@ -14,6 +14,8 @@ The first menu below prompts the user to select the menu they would like to orde
 ![Alt text](/First_Menu.png?raw=true "First Menu")
 
 ### Detailed Menu
-
+The detailed menu shows specific items from the menu to be odered. The user can select a specific item and then will be prompted for the quantity they want.
 
 ![Alt text](/SubMenu.png?raw=true "Detailed Menu")
+
+The user will then be asked if they want to continue ordering. If yes, the user will be presented with the first menu again.  It will continue to loop until the user indicates they want to stop ordering.  The user will then see a receipt of the items they ordered with a total.
