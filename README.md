@@ -9,4 +9,4 @@ The python code, menu.py, can be utilized by food trucks as an interactive order
 ## Demonstration
 
 
-![Alt text](/desktop/First_Menu.png?raw=true "First Menu")
+![Alt text](/First_Menu.png?raw=true "First Menu")
